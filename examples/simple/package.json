@@ -1,0 +1,31 @@
+{
+  "name": "react-simple-menu-example",
+  "version": "1.0.0",
+  "description": "react-simple-menu-example-description",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/react-simple-menu-author/react-simple-menu.git"
+  },
+  "keywords": [
+    "react-simple-menu-keywords"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-simple-menu-author/react-simple-menu/issues"
+  },
+  "homepage": "https://github.com/react-simple-menu-author/react-simple-menu",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-core": "^5.6.18",
+    "babel-loader": "^5.1.4",
+    "node-libs-browser": "^0.5.2",
+    "react-hot-loader": "^1.2.7",
+    "webpack": "^1.9.11",
+    "webpack-dev-server": "^1.9.0"
+  }
+}
