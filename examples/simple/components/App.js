@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Dropdown from 'react-simple-menu';
 
-var listItemStyle = {
+const listItemStyle = {
   padding: '10px 15px',
   display: 'block',
   textDecoration: 'none',

@@ -3,6 +3,11 @@ react-simple-menu
 
 A simple, accessible menu component for react that can be used to implement widgets like dropdown menus.
 
+## Install
+```
+$ npm install react-simple-menu
+```
+
 ## Example Usage
 
 ```javascript
